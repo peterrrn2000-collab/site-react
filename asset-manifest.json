@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/path/to/socket.sock/static/css/main.e6c13ad2.css",
+    "main.js": "/path/to/socket.sock/static/js/main.40906568.js",
+    "static/js/453.43a36576.chunk.js": "/path/to/socket.sock/static/js/453.43a36576.chunk.js",
+    "index.html": "/path/to/socket.sock/index.html",
+    "main.e6c13ad2.css.map": "/path/to/socket.sock/static/css/main.e6c13ad2.css.map",
+    "main.40906568.js.map": "/path/to/socket.sock/static/js/main.40906568.js.map",
+    "453.43a36576.chunk.js.map": "/path/to/socket.sock/static/js/453.43a36576.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.40906568.js"
+  ]
+}
